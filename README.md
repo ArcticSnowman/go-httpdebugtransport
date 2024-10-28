@@ -4,9 +4,14 @@
 
 Go utility to debug HTTP requests/response, with support for authenication
 
-## Simple Usage
+## Usage
 
 ```go
+
+    import (
+        github.com/ArcticSnowman/go-httpdebugtransport
+    )
+
     ct := httpdebugtransport.New()  
     ct.SetToken("some-token")
     ct.SetDebug(true)
