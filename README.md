@@ -1,5 +1,7 @@
 # go-httpdebugtransport
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/ArcticSnowman/go-httpdebugtransport.svg)](https://pkg.go.dev/github.com/ArcticSnowman/go-httpdebugtransport)
+
 Go utility to debug HTTP requests/response, with support for authenication
 
 ## Simple Usage
